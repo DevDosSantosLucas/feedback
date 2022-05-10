@@ -4,9 +4,13 @@
 
 Esse projeto é um widget que pode ser usado em aplicações web e mobile para receber feedback de usuários.
 ---
+[PROJETO EM PRODUÇÃO](https://feedback-web-nine.vercel.app/) <br>
+[VERSÃO MOBILE](https://github.com/DevDosSantosLucas/feedbackMobile) <br>
+---
+<h3>Prototipo </h3> 
+
 [Figma-duplicate](https://www.figma.com/file/osjEnZEERZjBBA3n6YNOkc/Feedback-Widget-(Community)?node-id=100%3A2114) <br>
 [Figma-Rocketseat](https://www.figma.com/community/file/1102912516166573468) <br>
-[Projeto em PRODUÇÃO](https://www.x.com) <br>
 
 <!--
 <h2 align = "center" > Desktop </h2>
@@ -45,7 +49,6 @@ Esse projeto é um widget que pode ser usado em aplicações web e mobile para r
    https://localhosts:3000/
    
 ---
-   OBS: A API é Ficticia, Não há existencia de APi(em backend) no desenvolvimento do projeto, porém a dashboard só pode ser acessada pelo link.
-   
+   OBS: A API está disponivel em outro Repositório. [CLique aqui](https://github.com/DevDosSantosLucas/feedbackServer) para ver o código.   
 ---
  👨🏻‍💻 Desenvolvido por **Lucas Ribeiro dos Santos** junto a **Rocketseat** na **NEXT LEVEL WEEK** 
