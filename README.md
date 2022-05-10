@@ -49,6 +49,6 @@ Esse projeto é um widget que pode ser usado em aplicações web e mobile para r
    https://localhosts:3000/
    
 ---
-   OBS: A API está disponivel em outro Repositório. [CLique aqui](https://github.com/DevDosSantosLucas/feedbackServer) para ver o código.   
+   OBS: A API está disponivel em outro Repositório. [Clique aqui](https://github.com/DevDosSantosLucas/feedbackServer) para ver o código.   
 ---
  👨🏻‍💻 Desenvolvido por **Lucas Ribeiro dos Santos** junto a **Rocketseat** na **NEXT LEVEL WEEK** 
