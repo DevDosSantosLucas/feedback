@@ -49,7 +49,7 @@ export function WidgetForm(){
       </>
         )
       }
-      <footer className="text-xs text-neutral-400">
+      <footer className="text-xs text-neutral-600 dark:text-neutral-400">
       Feito com ♥ por 
       <a className="underline underline-offset-2" target="_blank" href="https://lucasdev.vercel.app/"> Lucas </a>
       junto com a 
