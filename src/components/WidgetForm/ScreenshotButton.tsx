@@ -31,7 +31,7 @@ export function ScreenshotButton({screenshot,onScreenshotTook}:ScreenshotButtonP
          backgroundImage:`url(${screenshot})`
        }}
        >
-         <Trash weight="fill" />
+         <Trash weight="fill" className="text-zinc-900 dark:text-zinc-100" />
        </button>
      )
    }
@@ -39,9 +39,9 @@ export function ScreenshotButton({screenshot,onScreenshotTook}:ScreenshotButtonP
     <button
     onClick={handleTakeScreenshot}
     type ="button"
-    className=" p-2 bg-zinc-800 rounded-md border-transparent hover: bg-zinc-700 transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-zinc-900 focus:ring-brand-500" 
+    className=" p-2 bg-[#F4F4F5] dark:bg-zinc-800 rounded-md border-transparent hover:bg-zinc-200 hover:dark:bg-zinc-700 transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-zinc-900 focus:ring-brand-500" 
   >
-    {isTakeScreenshot? <Loading /> : <Camera className="w-6 h-6 text-zinc-100" />}
+    {isTakeScreenshot? <Loading /> : <Camera className="w-6 h-6 text-zinc-900 dark:text-zinc-100" />}
   </button>
   )
 }
